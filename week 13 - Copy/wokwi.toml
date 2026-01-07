@@ -1,0 +1,3 @@
+[wokwi]
+diagram = "diagram.json"
+firmware = ".pio/build/nodemcu-32s/firmware.elf"
